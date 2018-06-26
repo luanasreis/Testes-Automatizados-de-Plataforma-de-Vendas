@@ -1,5 +1,5 @@
 # Testes-Automatizados-de-Plataforma-de-Vendas
-
+O sistema exemplo testado trata-se de uma plataforma Web de vendas, onde é possível adicionar novas contas de clientes (Nome, CPF, Indicar se o cliente está ativo ou não, saldo do cliente). É possível remover e alterar dados de uma conta do cliente. Os clientes podem ser listados e pesquisados por nome, data de vencimento do cartão ou por atividade/inatividade. O sitema também permite que um cliente realiza transações e que essas transações sejam listadas.  
 
 ---
 
