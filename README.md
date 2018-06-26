@@ -9,7 +9,7 @@ Apresenta um Plano de Teste Exemplo para o sistema testado.
 
 ---
 
-## A pasta AutomacaoTestesSistema
+## A pasta AutomatizacaoComSeleniumWebDriver
 
 O documento README.pdf possui um breve tutorial para a execução do projeto de testes automatizados.
 
