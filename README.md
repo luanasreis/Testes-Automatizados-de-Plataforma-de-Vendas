@@ -19,10 +19,7 @@ O documento README.pdf possui um breve tutorial para a execução do projeto de 
 
 O arquivo de planilha eletrônica foi construído a partir da ferramenta Excel 2010.
 
-O projeto da planilha é composta por três planilhas individuais(disponíveis dentro da aba inferior da planilha Resultados-Cenarios-CasosDeTeste.xlsx)
-	Sumário
-	Cenários de Testes e Especificação de Casos de Testes
-	Resultados dos Testes
+O projeto da planilha é composta por três planilhas individuais(disponíveis dentro da aba inferior da planilha Resultados-Cenarios-CasosDeTeste.xlsx): Sumário, Cenários e Especificação de Casos de Testes e Resultados dos Testes
 
 ---
 
